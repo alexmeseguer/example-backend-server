@@ -1,0 +1,60 @@
+{
+  "users": [
+    {
+      "birthDate": "1980-01-23",
+      "email": "john.muller@example.com",
+      "firstname": "John",
+      "id": 1,
+      "lastname": "Müller",
+      "address": {
+        "city": "Freiburg im Breisgau",
+        "country": "DE",
+        "id": 1,
+        "postalcode": "42030",
+        "street": "Lindenstraße 89"
+      }
+    },
+    {
+      "birthDate": "1990-12-29",
+      "email": "alex@m.m",
+      "firstname": "Alex",
+      "id": 2,
+      "lastname": "Meseguer",
+      "address": {
+        "city": "Murcia",
+        "country": "ES",
+        "id": 1,
+        "postalcode": "30100",
+        "street": "Camino"
+      }
+    },
+    {
+      "birthDate": "2000-01-11",
+      "email": "jk@row",
+      "firstname": "JK",
+      "id": 3,
+      "lastname": "Rowling",
+      "address": {
+        "city": "London",
+        "country": "UK",
+        "id": 1,
+        "postalcode": "90384",
+        "street": "Down Street"
+      }
+    },
+    {
+      "birthDate": "1965-02-23",
+      "email": "obam@a",
+      "firstname": "Barak",
+      "id": 4,
+      "lastname": "Obama",
+      "address": {
+        "city": "Kansas",
+        "country": "US",
+        "id": 1,
+        "postalcode": "42030",
+        "street": "Central Perk"
+      }
+    }
+  ]
+}
