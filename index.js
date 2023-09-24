@@ -4,5 +4,6 @@ const router = jsonServer.router("db.json");
 const middlewares = jsonServer.defaults();
 const port = process.env.PORT || 3001;
 
-// const jsonServe = require("json-serve");
-// const cors = require("cors");
+server.use(middlewares);
+server.use(router);
+server.listen(port);
